@@ -4,7 +4,10 @@ I'm just a !normal Software Engineer, I'm always curious about how things work a
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 29 July, 2020 - 05 August, 2020
+
+TypeScript   24 mins         ████████████████████████░   96.46 % 
+Groovy       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
 <!--END_SECTION:waka-->
 
