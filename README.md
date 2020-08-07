@@ -4,7 +4,7 @@ I'm just a !normal Software Engineer, I'm always curious about how things work a
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 July, 2020 - 05 August, 2020
+Week: 30 July, 2020 - 06 August, 2020
 
 TypeScript   24 mins         ████████████████████████░   96.46 % 
 Groovy       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
