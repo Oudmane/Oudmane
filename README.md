@@ -4,13 +4,13 @@ I'm just a !normal Software Engineer, I'm always curious about how things work a
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 July, 2020 - 07 August, 2020
+Week: 01 August, 2020 - 08 August, 2020
 
-TypeScript   8 hrs 45 mins   ███████████████████░░░░░░   77.02 % 
-HTML         1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-JavaScript   23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-PHP          19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-YAML         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+TypeScript   9 hrs 17 mins   ██████████████████░░░░░░░   72.30 % 
+HTML         2 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+PHP          33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+JavaScript   23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+YAML         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 <!--END_SECTION:waka-->
 
