@@ -4,7 +4,9 @@ I'm just a !normal Software Engineer, I'm always curious about how things work a
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 12 November, 2020 - 19 November, 2020
+
+XML   17 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
